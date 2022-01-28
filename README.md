@@ -13,5 +13,4 @@ comprises the majority of my free time.
 Always eager to learn, I have been actively involved within the Computer Science field 
 since the age of 11. I published my first viral app at the age of 13 and have since 
 taught myself a variety of languages and frameworks. My specializations are in Python, 
-Java, C, and C#, as well as the instruction of children regarding Blockly languages; 
-and my interests lie in computer vision, augmented reality, and control interfaces.
+Java, C, and C#, as well as teaching and my interests lie in computer vision, augmented reality, and control interfaces.
