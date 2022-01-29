@@ -1,7 +1,7 @@
 Hello!
 My name is Bradley Freedman and I am an award-winning programmer and 
 an Honors student studying Computer Science, Mathematics, and Interdisciplinary 
-Studies at James Madison University. I am honored to serve as one of the seven 
+Studies at James Madison University. I am honored to serve as one of the ten 
 ambassadors for the university's Computer Science department and will be furthering 
 this work by mentoring children within the field in the coming winter.
 
